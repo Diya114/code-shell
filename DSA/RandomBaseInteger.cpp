@@ -6,7 +6,7 @@ int main()
     for (int i = 0; i < 1; i++)
     {
       // generating random integer
-        s = rand() % (9999999999-5000000000+1) + 5000000000;
+        s = rand() % 5 + 5000000000;
     }
     
     cout << "Random Intger is : "<<s << endl;
