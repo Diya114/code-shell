@@ -10,7 +10,7 @@ int main()
     }
     
     //printing random integer
-    cout << "Random Intger is : "<<s << endl; //printing random integer
+    cout << "Random Intger is : "<<s << endl;
   
     int m = s;
     int max = INT_MIN;
