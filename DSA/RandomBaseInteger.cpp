@@ -9,7 +9,8 @@ int main()
         s = rand() % 5 + 5000000000;
     }
     
-    cout << "Random Intger is : "<<s << endl;
+    //printing random integer
+    cout << "Random Intger is : "<<s << endl; //printing random integer
   
     int m = s;
     int max = INT_MIN;
